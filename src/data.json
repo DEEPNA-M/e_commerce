@@ -1,0 +1,37 @@
+[{
+        "name": "Potato",
+        "id": 1,
+        "price": 30,
+        "available": 1,
+        "vendor": "Himachal Pvt Ltd",
+        "category": "Vegetables",
+        "img": "https://media.istockphoto.com/photos/raw-potato-picture-id619756376?b=1&k=20&m=619756376&s=170667a&w=0&h=2q80yKgHrFkNA4PGRAcEcyMLHfJD-yMoAgL3ek3QqK4="
+    },
+    {
+        "name": "Banana",
+        "id": 2,
+        "price": 50,
+        "available": 1,
+        "category": "Fruits",
+        "vendor": "Organic farms",
+        "img": "https://media.istockphoto.com/photos/banana-picture-id174959827?b=1&k=20&m=174959827&s=170667a&w=0&h=gfKhy0WOa98Ms9DmtLGXROxoO2SoeDmJCyXuEXQuDEg="
+    },
+    {
+        "name": "Drumsticks",
+        "id": 3,
+        "price": 20,
+        "available": 0,
+        "category": "Vegetables",
+        "vendor": "Mallikarjuna farms",
+        "img": "https://media.istockphoto.com/photos/drumsticks-fruit-picture-id509429746?b=1&k=20&m=509429746&s=170667a&w=0&h=CBED3MPQr0_HE4OuVnkCQ8_iC53sV-khCKP9-ulv5o0="
+    },
+    {
+        "name": "Orange",
+        "id": 4,
+        "price": 25,
+        "available": 1,
+        "vendor": "Nagpur farms",
+        "category": "Fruits",
+        "img": "https://images.unsplash.com/photo-1549888834-3ec93abae044?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG9yYW5nZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    }
+]
